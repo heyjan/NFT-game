@@ -4,6 +4,18 @@
   </div>
 </template>
 
+<script>import ogImage from '../assets/game/meta.png';
+export default {
+  head () {
+    return {
+      meta: [
+        { hid: 'og:image', property: 'og:image', content: this.BASE_URL+ ogImage }
+      ]
+    }
+  },}
+</script>
+
+
 <style>
 html {
   font-family:

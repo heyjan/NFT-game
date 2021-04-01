@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'textbase',
+    title: 'Nonfungible Apes Game Nuxt - Vuejs 3.0',
     htmlAttrs: {
       lang: 'en'
     },

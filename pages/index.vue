@@ -21,7 +21,7 @@
     <div class="wrapper flex">
       <transition-group
         tag="section"
-        class="game-board m-3 p-8 rounded-xl ml-auto mr-auto"
+        class="game-board cursor-pointer m-3 p-8 rounded-xl ml-auto mr-auto"
         name="shuffle-card"
       >
         <Card

@@ -1,7 +1,12 @@
 
-Small Card Game im made for a NFT Project 
+Small Card Game im made for a NFT Project called " Nonfungible Apes "
 
-https://imgur.com/TNld0gt
+<img
+src="https://i.imgur.com/TNld0gt.png[/img]”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 
 

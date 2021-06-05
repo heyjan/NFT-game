@@ -1,12 +1,11 @@
 
 Small Card Game im made for a NFT Project called " Nonfungible Apes "
 
-<img
-src=https://i.imgur.com/TNld0gt.png
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+
+![](https://i.imgur.com/TNld0gt.png)
+
+
+Demo: https://6065e53ace861d0007496f9b--objective-minsky-9917d8.netlify.app/
 
 
 

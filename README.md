@@ -1,5 +1,10 @@
 
-Small Card Game im made for a NFT Project called " Nonfungible Apes "
+Small Card Game i made for a NFT Project called " Nonfungible Apes "
+
+Running on Nuxt using Vue 3.0 Composition Api
+
+ToDo:
+Refactoring
 
 
 ![](https://i.imgur.com/TNld0gt.png)

@@ -2,7 +2,7 @@
 Small Card Game im made for a NFT Project called " Nonfungible Apes "
 
 <img
-src="https://i.imgur.com/TNld0gt.png[/img]”
+src="https://i.imgur.com/TNld0gt.png”
 raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”

@@ -1,4 +1,9 @@
-# textbase
+
+Small Card Game im made for a NFT Project 
+
+https://imgur.com/TNld0gt
+
+
 
 ## Build Setup
 
